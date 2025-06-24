@@ -11,4 +11,4 @@ A simple weather dashboard using OpenWeatherMap API.
 2. Enter a city name
 3. Get real-time weather data
 
-![Screenshot](screenshot.png)
+
